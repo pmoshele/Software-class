@@ -1,3 +1,6 @@
+#Author: PULENG MOSHELE
+DATE: 01/16/2019
+
 library("dplyr")
 dat <-  read.csv("Data/gapminder_data.csv")
 
